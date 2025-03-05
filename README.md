@@ -48,7 +48,7 @@ Curling turtle game with a dynamic physics-based simulation using Python and Pyg
 You can modify various parameters in the script:
 
 - **Ball Size** (`BALL_SIZE`)
-- **Gravity and Friction** (`ball.vx *= 0.99`, `ball.vy *= 0.99`)
+- **Friction** (`ball.vx *= 0.99`, `ball.vy *= 0.99`)
 - **Turtle Animation Speed** (`TURTLE_ANIMATION_FRAMES`)
 - **Shooting Force Multiplier** (`dx * 0.05`, `dy * 0.05`)
 - **Collision Physics** (`impulse`, `angular_impulse`, `friction`)
