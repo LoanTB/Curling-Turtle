@@ -17,24 +17,6 @@ Curling turtle game with a dynamic physics-based simulation using Python and Pyg
 - **Python 3.x**
 - **Pygame**: Install it via pip with `pip install pygame`
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/Turtle-Ball-Simulation.git
-   cd Turtle-Ball-Simulation
-   ```
-
-2. Install Pygame if not already installed:
-   ```bash
-   pip install pygame
-   ```
-
-3. Run the simulation:
-   ```bash
-   python main.py
-   ```
-
 ## Project Structure
 
 - **`main.py`**: The main script running the simulation.
